@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "857982385583",
+    "project_id": "a-aprender-a-programar-flutter",
+    "storage_bucket": "a-aprender-a-programar-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857982385583:android:19287d629517171e1f035a",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857982385583-24m5pjrd12dkk7so37jrcuk8sgfrpbs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLmxbalvS4yKJeMmgaKndWEt4bdbFo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857982385583-24m5pjrd12dkk7so37jrcuk8sgfrpbs0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857982385583-lgm3tkgpmsbbfdtd0q3ejp9nej3md796.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningdart.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
